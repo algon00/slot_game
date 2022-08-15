@@ -1,0 +1,102 @@
+/*
+ゲーム画面
+****/
+.game-page{
+    background-color: #faebd7;
+}
+.main{
+    width: 100%;
+    text-align: -webkit-center;
+    display: flex;
+    flex-direction: column;
+}
+.h1{
+    margin: 40px;
+    letter-spacing: 4px;
+    font-size: 40px;
+}
+.box-main{
+    padding: 100px;
+    display: flex;
+    margin: auto;
+}
+.box{
+    width: 300px;
+}
+#tag{
+    border-width: 3px;
+    border-color: brown;
+    display: block;
+    width: auto;
+    height: 50px;
+    margin: auto;
+    font-size: 25px;
+    letter-spacing: 2px;
+}
+.saikoro{
+    width: 150px;
+    height: 150px;
+}
+#comment{
+    font-size: 25px;
+    margin: 10px;
+    letter-spacing: 2px;
+}
+.btn-box{
+    text-align: center;
+}
+.log{
+    padding: 25px;
+}
+
+
+
+
+/*
+ログイン画面
+****/
+.signup {
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    height: 100%;
+    background-color: #123;
+    color: #fff;
+}
+ 
+.form-signup {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+ 
+.logo-white {
+    margin-bottom: 30px;
+    width: 50px;
+}
+ 
+.signup h1 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+ 
+.signup input {
+    margin-bottom: 10px;
+    background-color: #123;
+    border-color: #456;
+    color: #fff;
+}
+ 
+.signup input:focus {
+    background-color: #123;
+    border-color: #1af;
+    color: #fff;
+}
+
+.signup button{
+    background-color: cornsilk;
+}
+ 
+ 
