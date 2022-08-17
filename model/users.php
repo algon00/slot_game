@@ -4,8 +4,8 @@
 ///////////////////////////////////////
 
 define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASSWORD', 'root');
+define('DB_USER', 'dbuser');
+define('DB_PASSWORD', 'Dbuser2000!');
 define('DB_NAME', 'slot_game');
  
 /**
